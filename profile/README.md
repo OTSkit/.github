@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="OTSkit" width="720" />
+  <img src="https://raw.githubusercontent.com/OTSkit/.github/main/profile/logo.png" alt="OTSkit" width="720" />
 </p>
 
 
