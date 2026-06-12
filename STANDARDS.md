@@ -43,7 +43,7 @@ disagree, this document wins — fix the repo or open a PR to change the standar
 - Links between OTSkit repos use the real casing: `OTSkit-core`, `OTSkit-client`,
   `OTSkit-MCP`, `OTSkit-skills`.
 - Confirmation-time note, identical wording in every package README:
-  > Bitcoin confirmations typically arrive within **10–60 minutes**, but can take
+  > Bitcoin confirmations typically arrive within **~60 minutes**, but can take
   > **several hours** during network congestion. A pending proof is not a failed proof.
 - A README only documents what `package.json` actually declares (dependencies,
   engines, supported runtimes). When they drift apart, the README is the bug.

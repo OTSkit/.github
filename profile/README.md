@@ -112,7 +112,7 @@ const hash = createHash('sha256').update(readFileSync('document.pdf')).digest('h
 const client = new OpenTimestampsClient();
 const proof = await client.stamp(hash); // Returns .ots proof as Buffer
 
-// Later — upgrade when Bitcoin has confirmed (~10–60 min)
+// Later — upgrade when Bitcoin has confirmed (~60 min)
 const upgraded = await client.upgrade(proof);
 ```
 
