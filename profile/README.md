@@ -54,7 +54,7 @@ to Bitcoin.
 | [`@otskit/core`](https://github.com/OTSkit/OTSkit-core) | OpenTimestamps protocol engine — zero dependencies, TypeScript-native |
 | [`@otskit/client`](https://github.com/OTSkit/OTSkit-client) | Production SDK with circuit breakers, SSRF protection, auto-retry |
 | [`@otskit/mcp`](https://github.com/OTSkit/OTSkit-MCP) | MCP server — 8 tools for Claude, Codex, and any MCP-compatible agent |
-| [OTSkit Skills](https://github.com/OTSkit/SKILLS) | Agent skills for BagIt/OAIS/PREMIS digital preservation workflows |
+| [OTSkit Skills](https://github.com/OTSkit/OTSkit-skills) | Agent skills for BagIt/OAIS/PREMIS digital preservation workflows |
 
 ### `@otskit/core`
 
